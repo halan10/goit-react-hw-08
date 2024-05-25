@@ -3,7 +3,7 @@ import { Formik, Form, Field, ErrorMessage } from 'formik';
 import * as Yup from 'yup';
 import { toast } from 'react-hot-toast';
 
-import { addContact } from '../../redux/contacs/operations';
+import { addContact } from '../../redux/contacts/operations';
 import { useDispatch } from 'react-redux';
 import CustomButton from '../CustomButton/CustomButton';
 

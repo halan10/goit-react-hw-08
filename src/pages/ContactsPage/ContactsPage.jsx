@@ -9,8 +9,8 @@ import SearchBox from '../../components/SearchBox/SearchBox.jsx';
 import PageTitle from '../../components/PageTitle/PageTitle';
 import ErrorMessage from '../../components/ErrorMessage/ErrorMessage.jsx';
 
-import { fetchContacts } from '../../redux/contacs/operations.js';
-import { selectError } from '../../redux/contacs/selectors.js';
+import { fetchContacts } from '../../redux/contacts/operations.js';
+import { selectError } from '../../redux/contacts/selectors.js';
 
 import css from './ContactsPage.module.css';
 

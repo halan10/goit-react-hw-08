@@ -1,7 +1,7 @@
 import { useDispatch } from 'react-redux';
 import { toast } from 'react-hot-toast';
 
-import { deleteContact } from '../../redux/contacs/operations';
+import { deleteContact } from '../../redux/contacts/operations';
 import CustomButton from '../CustomButton/CustomButton';
 
 import Typography from '@mui/material/Typography';

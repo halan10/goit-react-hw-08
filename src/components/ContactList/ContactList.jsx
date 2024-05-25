@@ -4,7 +4,7 @@ import Contact from '../Contact/Contact';
 import ContactSkeleton from '../ContactSkeleton/ContactSkeleton.jsx';
 
 import { selectFiltredContacts } from '../../redux/filters/selectors';
-import { selectLoading } from '../../redux/contacs/selectors.js';
+import { selectLoading } from '../../redux/contacts/selectors.js';
 
 import css from './ContactList.module.css';
 
