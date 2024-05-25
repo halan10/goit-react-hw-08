@@ -1,0 +1,11 @@
+.mainBox {
+  box-shadow: 0.2px 12px 18px rgba(131, 153, 167, 0.6);
+}
+.mainContainer {
+  background-image: linear-gradient(to right, #000, #1b1b1b, #434343);
+  opacity: 0.7;
+}
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+}

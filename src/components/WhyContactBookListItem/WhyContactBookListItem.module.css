@@ -1,0 +1,20 @@
+.paper {
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  color: white;
+  display: flex;
+  margin: auto;
+  padding: 16px;
+  flex-direction: column;
+  border-radius: 16px;
+  height: 100%;
+
+  align-items: center;
+  background: transparent;
+  box-shadow: 0.2px 12px 18px rgba(131, 153, 167, 0.6);
+}
+.paper:hover {
+  box-shadow: 0px 24px 36px rgba(131, 153, 167, 0.99);
+}
+.description {
+  text-align: center;
+}

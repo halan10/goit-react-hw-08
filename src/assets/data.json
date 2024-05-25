@@ -1,0 +1,20 @@
+[
+  {
+    "icon": "https://cdn.iconscout.com/icon/premium/png-512-thumb/contact-management-4883312-4062125.png?f=webp&w=256",
+    "title": "Convenient Contact Management",
+    "description": "ContactBook helps you easily store, update, and organize your contacts. Forget about complex spreadsheets or messy records - with ContactBook, everything is under control.",
+    "id": 1812
+  },
+  {
+    "icon": "https://www.realvnc.com/wp-content/uploads/2023/12/remote-access-software-ios-android.png",
+    "title": "Access from Any Device",
+    "description": "No matter where you are, your contacts are always accessible. With ContactBook, you can easily access your data from any computer, tablet, or smartphone.",
+    "id": 1137
+  },
+  {
+    "icon": "https://cdn.iconscout.com/icon/premium/png-512-thumb/data-encryption-8-771377.png?f=webp&w=256",
+    "title": "Security and Confidentiality",
+    "description": "We understand the importance of your privacy. ContactBook uses advanced technologies to protect your data, ensuring its confidentiality and security",
+    "id": 1213
+  }
+]

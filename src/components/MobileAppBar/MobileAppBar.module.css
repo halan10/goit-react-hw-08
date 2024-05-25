@@ -1,0 +1,15 @@
+.mainContainer {
+  background-image: linear-gradient(to right, #000, #1b1b1b, #434343);
+  opacity: 0.7;
+  height: 100%;
+}
+.link {
+  margin: 0 1rem;
+  color: white;
+  text-decoration: none;
+}
+.linkActive {
+  margin: 0 1rem;
+  color: rgb(239, 138, 1);
+  text-decoration: none;
+}

@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  gap: 16px;
+  list-style: none;
+  flex-direction: row;
+  align-items: stretch;
+}
+.title {
+  text-align: center;
+}
+.listItem {
+  width: calc(100% / 3);
+}
+.mobileContainer {
+  display: flex;
+  list-style: none;
+  flex-direction: column;
+  align-items: center;
+  padding: 0;
+}
+.mobileListItem {
+  width: calc(100%);
+}

@@ -1,0 +1,15 @@
+.mainContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, auto));
+  gap: 24px;
+
+  justify-content: start;
+}
+.SearchBox {
+  display: block;
+  align-items: center;
+}
+.mobileMainContainer {
+  display: flex;
+  flex-direction: column;
+}
